@@ -124,7 +124,6 @@ comments:
     category: Comments
     category_id: DIC_kwDOOQCERM4CpV6-
     mapping: pathname
-    strict: 0
     input_position: bottom
     lang: zh-CN
     reactions_enabled: 1
